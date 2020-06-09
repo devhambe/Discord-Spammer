@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Spammer
 {
-    public partial class Form1 : Form
+    public partial class Spammer : Form
     {
-        public Form1()
+        public Spammer()
         {
             InitializeComponent();
         }
